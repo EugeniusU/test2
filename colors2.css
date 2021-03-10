@@ -1,0 +1,23 @@
+
+.content {
+	display: flex;
+	justify-content: space-around;
+	width: 60%;
+	margin-top: 35px;
+}
+
+.colors {
+	width: 50%;
+}
+
+.colors div {
+	margin: 15px;
+}
+
+.text {
+	width: 30%;
+}
+
+textarea {
+	min-height: 100%;
+}
