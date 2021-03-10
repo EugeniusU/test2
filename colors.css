@@ -1,0 +1,26 @@
+
+.colors {
+	display: flex;
+	flex-direction: column;
+	min-width: 30%;
+}
+
+div {
+	margin: 2%;
+}
+
+.content {
+	display: flex;
+	width: 70%;
+	justify-content: space-around;
+}
+
+textarea {
+	min-width: 30%;
+	min-height: 100%;	
+	font-size: 20px;
+}
+
+input {
+	min-width: 100%;
+}
